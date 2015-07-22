@@ -18,7 +18,7 @@ html, body
   font-weight: 400;
   font-family: "Libre Baskerville", serif;
   font-style: italic;
-  background-color: #f8fcda ;
+  background-color: #FFe ;
   
   color: #000;
   min-height: 100%;
@@ -30,7 +30,8 @@ html, body
 
 }
 
-.hero {background-color: #D1F5FF}
+.hero {background-color: #FDFFFC;
+        color:#C20A17;}
 
 h1 {
 	font-size: 50px;
