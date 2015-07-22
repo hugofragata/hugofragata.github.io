@@ -16,7 +16,7 @@ html, body
 	font-size: 20px;
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Crimson Text", serif;
+  font-family: "Libre Baskerville", serif;
   font-style: italic;
   background-color: #f8fcda ;
   
@@ -34,6 +34,7 @@ html, body
 
 h1 {
 	font-size: 50px;
+  font-style: normal;
 }
 
 .img-circle {
@@ -49,6 +50,10 @@ h1 {
 	display: inline-block;
     vertical-align: middle;
     float: none;
+}
+
+.name {
+  font-size: 48px;
 }
 
 
