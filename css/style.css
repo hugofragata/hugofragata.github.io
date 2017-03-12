@@ -49,3 +49,10 @@ h1 {
 .name {
   font-size: 48px;
 }
+
+.face {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;}
