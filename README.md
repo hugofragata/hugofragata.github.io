@@ -1,1 +1,0 @@
-An exercise of making a beautiful, responsive website that functions as a personal business card.
