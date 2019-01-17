@@ -1,9 +1,9 @@
-__
-# welcome! 
+### welcome! 
 
 I'm Hugo!
 
 ### contacts
+
 fragata hugo [at] gmail [dot] com _remove *all* spaces_
 
 ### other web 
