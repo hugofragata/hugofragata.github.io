@@ -4,7 +4,7 @@ I'm Hugo!
 
 ### contacts
 
-fragata hugo [at] gmail [dot] com _remove *all* spaces_
+fragata hugo + work site [at] gmail [dot] com _remove *all* spaces but *not* the plus sign_
 
 ### other web 
 
