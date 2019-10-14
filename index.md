@@ -6,7 +6,7 @@ I'm Hugo!
 
 ### contacts
 
-hugo [at] fragata [dot] casa _remove *all* spaces but *not* the plus sign_
+hugo [at] fragata [dot] casa _remove *all* spaces_
 
 ### other web 
 
