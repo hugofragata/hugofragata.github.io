@@ -1,14 +1,15 @@
-## 😌
+## 🏕️
 
-### welcome! 
+### hi! 
 
 I'm Hugo!
+🇵🇹 👨‍💻 🎧
 
-### contacts
+#### contacts
 
-hugo [at] fragata [dot] casa _remove *all* spaces_
+hugo [at] fragata [dot] casa _remove all spaces_
 
-### other web 
+#### other web 
 
 * [github](https://github.com/hugofragata)
 * [rateyourmusic](https://rateyourmusic.com/~hmmmm)
