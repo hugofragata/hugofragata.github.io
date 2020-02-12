@@ -1,8 +1,6 @@
-## 🏕️
+## Hugo Fragata
 
-### hi! 
-
-I'm Hugo!
+### 🤙 unexpected virtue of ignorance
 
 _filling this with a lengthy bio would be boring_
 
