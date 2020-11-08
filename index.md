@@ -8,5 +8,3 @@ _filling this with a lengthy bio would be boring_
 
 👨‍💻 [github](https://github.com/hugofragata) ● 🎧 [rateyourmusic](https://rateyourmusic.com/~hmmmm) ● 🐦 [twitter](https://twitter.com/hugofragata)
 
-
-
