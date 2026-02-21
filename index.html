@@ -13,11 +13,16 @@ html, body {
   justify-content: center;
   align-items: center;
 }
-pre {
-  font-family: monospace;
+a {
+  position: relative;
+  display: inline-block;
+  margin-top: 20px;
 }
-a:hover {
-  text-decoration: underline;
+a[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  top: -100%;
+  left: 0;
 }
 </style>
 </head>
